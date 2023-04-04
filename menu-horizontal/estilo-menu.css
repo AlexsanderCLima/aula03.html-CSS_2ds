@@ -1,0 +1,20 @@
+#home #navegacao .home a,
+#sobre #navegacao .sobre a
+#servicos #navegacao .servicos a{
+    background-position: right bottom;
+    background-color: blue;
+    color: #fff;
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+    background: #159cb0 url(imagens/fundo-horizontal.png) repeat-x
+    float: left;
+}
+
+#navegacao{
+
+}
